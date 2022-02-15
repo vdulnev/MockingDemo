@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginViewModel.login():LoginViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MockingDemoUITests.testLogin():MockingDemoUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MockingDemoUITests.testMissingData():MockingDemoUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
